@@ -6,7 +6,7 @@ class myIdm {
         return  x * x
     }
 
-    fun toString(){
+    fun to_String(){
         println(squares(5))
     }
 
