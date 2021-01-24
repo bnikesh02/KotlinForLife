@@ -8,7 +8,7 @@ class myIdm {
 
     fun to_String(){
         println(squares(5))
-        println("I want to add another print")
+        println("No my statment has to be printed!!!")
     }
 
 }
